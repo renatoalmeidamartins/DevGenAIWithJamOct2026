@@ -41,3 +41,9 @@
 - [Increase model invocation capacity with Provisioned Throughput in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
 - [Prompt caching for faster model inference](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [Memory concepts in Langchain](https://docs.langchain.com/oss/python/concepts/memory). Keep in mind that langchain is just **one** example framework that exposes Memory as a high-level resource, and you are able to define the backing store wherever you would like. 
+- Vector stores on AwS
+    - [Amazon DynamoDB now supports real-time vector search at any scale](https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/)
+    - [Amazon S3 Vectors now generally available with increased scale and performance](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/)
+    - [Introducing Amazon Kendra GenAI Index – Enhanced semantic search and retrieval capabilities](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/)
+    - [Vector database options](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/vector-db-options.html), from the prescriptive guidance on options for vector store in RAG scenarios
+    - [What is RAG?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
