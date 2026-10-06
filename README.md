@@ -34,3 +34,10 @@
 - [ReAct: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629), one could say this is the article that "gave birth" to agents
 - [Amazon Bedrock Prompt Management is now available in GA](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-management-is-now-available-in-ga/)
 - [Amazon Bedrock introduces new advanced prompt optimization and migration tool](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/)
+- Inference profiles
+    - [Cross-region](https://docs.aws.amazon.com/bedrock/latest/userguide/cross-region-inference.html), they are us, apac, eu, ... and global
+    - [Application inference profiles](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles.html), 
+- [Create a batch inference job](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference.html)
+- [Increase model invocation capacity with Provisioned Throughput in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
+- [Prompt caching for faster model inference](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
+- [Memory concepts in Langchain](https://docs.langchain.com/oss/python/concepts/memory). Keep in mind that langchain is just **one** example framework that exposes Memory as a high-level resource, and you are able to define the backing store wherever you would like. 
