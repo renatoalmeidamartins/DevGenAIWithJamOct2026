@@ -9,3 +9,8 @@
 - [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 - [How Sequence-to-Sequence Works](https://docs.aws.amazon.com/sagemaker/latest/dg/seq-2-seq-howitworks.html), its implementation highlights the limitations it had, and how attention networks solved the issue.
+- [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+- [What are Transformers in Artificial Intelligence?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- Some vector playgrounds
+    - [Embedding Playground](https://www.adityabawankule.io/tools/embedding-playground)
+    - [Embedding Projector](https://projector.tensorflow.org/)
