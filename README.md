@@ -25,3 +25,9 @@
     - (What is Prompt Engineering?)[https://aws.amazon.com/what-is/prompt-engineering/]
     - [Prompt engineering concepts](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html), notice that there are links for each model provider's best practices
     - [Design a prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html), this comes from Bedrock's docs
+- Evaluating prompts and responses
+    - [Built-in prompts for metrics when using Model-as-a-judge](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
+    - [Evaluate models or RAG systems using Amazon Bedrock Evaluations – Now generally available](https://aws.amazon.com/blogs/machine-learning/evaluate-models-or-rag-systems-using-amazon-bedrock-evaluations-now-generally-available/)
+    - [Evaluate, compare, and select the best foundation models for your use case in Amazon Bedrock (preview)](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/) - announcement, when LLM-as-a-judge was still not available
+    - [Creating a model evaluation job that use human workers in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation-human.html)
+    - [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html), uses publicly available prompt datasets and metrics used as benchmarks
