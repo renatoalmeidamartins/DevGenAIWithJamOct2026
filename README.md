@@ -31,3 +31,4 @@
     - [Evaluate, compare, and select the best foundation models for your use case in Amazon Bedrock (preview)](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/) - announcement, when LLM-as-a-judge was still not available
     - [Creating a model evaluation job that use human workers in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation-human.html)
     - [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html), uses publicly available prompt datasets and metrics used as benchmarks
+- [ReAct: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629), one could say this is the article that "gave birth" to agents
