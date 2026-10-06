@@ -14,3 +14,14 @@
 - Some vector playgrounds
     - [Embedding Playground](https://www.adityabawankule.io/tools/embedding-playground)
     - [Embedding Projector](https://projector.tensorflow.org/)
+- [Classifier Context Rot: Monitor Performance Degrades with Context Length](https://arxiv.org/html/2605.12366v1)
+- High-level AI services tend to have a very simple and specialized API. Take [Polly](https://docs.aws.amazon.com/polly/latest/APIReference/API_Operations.html), a text-to-speech service, as an example.
+- Prompt engineering
+    - Costar framework
+        - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/), AWS blog discussing it
+        - [Developing an Interactive OpenMP Programming Book with Large Language Models](https://arxiv.org/pdf/2409.09296), article mentioning the costar all along their methodology
+        - [COSTAR Prompt Engineering: What It Is and Why It Matters](https://aws.amazon.com/what-is/prompt-engineering/)
+        - ... there are way more references on this
+    - (What is Prompt Engineering?)[https://aws.amazon.com/what-is/prompt-engineering/]
+    - [Prompt engineering concepts](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html), notice that there are links for each model provider's best practices
+    - [Design a prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html), this comes from Bedrock's docs
