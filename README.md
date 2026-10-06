@@ -32,3 +32,5 @@
     - [Creating a model evaluation job that use human workers in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation-human.html)
     - [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html), uses publicly available prompt datasets and metrics used as benchmarks
 - [ReAct: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629), one could say this is the article that "gave birth" to agents
+- [Amazon Bedrock Prompt Management is now available in GA](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-management-is-now-available-in-ga/)
+- [Amazon Bedrock introduces new advanced prompt optimization and migration tool](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/)
