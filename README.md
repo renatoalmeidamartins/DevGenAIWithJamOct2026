@@ -70,3 +70,7 @@
 - [Binary Model Insights](https://docs.aws.amazon.com/machine-learning/latest/dg/binary-model-insights.html) - this documentation sits on a product that is gone for more than ten years. But the concpets are not dependent on the service.
 - [Built-in evaluation prompts for RAG workflows](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
 - [Ragas built-in metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
+- [Responsible AI: From principles to practice](https://aws.amazon.com/ai/responsible-ai/)
+- [Well-architected framework pillars](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
+- [Lens Catalog for AWS WA Tool](https://docs.aws.amazon.com/wellarchitected/latest/userguide/lens-catalog.html)
+- [Generative AI Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
