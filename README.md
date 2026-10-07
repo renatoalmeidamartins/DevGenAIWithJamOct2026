@@ -62,3 +62,11 @@
     - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
     - [APIs supported by Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/apis.html)
     - [List of available RAGAS metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
+
+- [Multi-Cloud is the Worst Practice](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/), just food for thought.
+
+- [Optimize model inference for latency](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
+- [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [Binary Model Insights](https://docs.aws.amazon.com/machine-learning/latest/dg/binary-model-insights.html) - this documentation sits on a product that is gone for more than ten years. But the concpets are not dependent on the service.
+- [Built-in evaluation prompts for RAG workflows](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
+- [Ragas built-in metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
