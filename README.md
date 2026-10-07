@@ -47,6 +47,8 @@
     - [Introducing Amazon Kendra GenAI Index – Enhanced semantic search and retrieval capabilities](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/)
     - [Vector database options](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/vector-db-options.html), from the prescriptive guidance on options for vector store in RAG scenarios
 - [What is RAG?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+
+## Day 2 links
 - Knowledge bases-related operations:
     - [Generate a query for structured data](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-generate-query.html) - GenerateQuery API
     - [Improve the relevance of query responses with a reranker model in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/rerank.html) - Rerank API
@@ -59,3 +61,4 @@
     - [Amazon EventBridge – Event-Driven AWS Integration for your SaaS Applications](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
     - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
     - [APIs supported by Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/apis.html)
+    - [List of available RAGAS metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
