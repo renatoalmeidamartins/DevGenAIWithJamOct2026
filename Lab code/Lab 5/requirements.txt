@@ -1,0 +1,6 @@
+jupyter
+ipywidgets
+boto3
+strands-agents
+bedrock-agentcore
+uv
